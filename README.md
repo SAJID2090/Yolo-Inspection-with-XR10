@@ -1,13 +1,6 @@
 # Yolo-Inspection-with-XR10
 🚧 Work in Progress ⏳ Source code and supporting files are being prepared. 📦 Public release coming soon. 🙏 Please wait for the official release. Thank you for your patience!
 
-Download UI from here: 1. <img width="571" height="1202" alt="Screenshot 2026-02-14 034627" src="https://github.com/user-attachments/assets/aaa7f9de-d523-45b9-85c6-a97428bc4596" />
-2. <img width="464" height="1047" alt="Screenshot 2026-02-14 040245" src="https://github.com/user-attachments/assets/61c42a45-bc13-4821-b574-77548c1cd518" />
-3. <img width="2559" height="1531" alt="Screenshot 2026-04-17 221226" src="https://github.com/user-attachments/assets/cb4854f5-a710-4cda-8d5d-eef1d6840c5b" />
-4. <img width="1764" height="1003" alt="Screenshot 2026-04-28 205359" src="https://github.com/user-attachments/assets/b6b486c0-1607-45c3-b834-0756ef3a0d2a" />
-
-
-
 //Inspection full script //
 
 using System.Collections;
