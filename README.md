@@ -1,5 +1,8 @@
 # Yolo-Inspection-with-XR10
 🚧 Work in Progress ⏳ Source code and supporting files are being prepared. 📦 Public release coming soon. 🙏 Please wait for the official release. Thank you for your patience!
+
+Download UI from here: <img width="1504" height="846" alt="Scaned Area with Buttons" src="https://github.com/user-attachments/assets/239d3071-9df5-4bfb-a150-e4a501a9d420" />
+
 //Inspection full script //
 
 using System.Collections;
